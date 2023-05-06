@@ -15,7 +15,7 @@
    | Order Price [$]      | 710   | 126    | 18%  |
    | Item Price [$]       | 540   | 120    | 22%  |
    | Revenue p/m [Mio. $] | 1.17  | 0.6    | 51%  |
-   |                      |       |        |      |
+ 
    
    <img width="400" src="https://user-images.githubusercontent.com/125308150/236634951-900f64c2-8beb-4a26-adcc-cc0580926ddc.png" style="zoom:25%;" />
     
